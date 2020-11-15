@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# PDFs
+*.pdf
+
+# Test
+test_tensorflow.py
